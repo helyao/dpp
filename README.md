@@ -32,13 +32,18 @@
     - 直接从Redis数据库相应库中取值
     - 使用python
     > from persist import rdb
+
     > rdb['in'].getProxy()
+
     > or
+
     > rdb['out'].getProxy()
 
     - 通过api接口调用
     > http://localhost:16666
+
     > or
+
     > http://localhost:16666/out
 
 ## 文件结构
@@ -53,10 +58,15 @@
 
 ## 代理源
 #### 国内代理
+http://www.xicidaili.com/
+
+http://www.kuaidaili.com/
 
 #### 国外代理
 https://www.us-proxy.org/
+
 https://www.socks-proxy.net/
+
 https://www.sslproxies.org/
 
 ## 注意事项
@@ -69,4 +79,6 @@ https://www.sslproxies.org/
 1. [Redis客户端](https://redisdesktop.com/)
 
 #### 如果对你有帮助，可否打赏一杯咖啡提神
+![AliPay](https://github.com/helyao/dpp/blob/master/img/alipay.png)
 
+![WeChat](https://github.com/helyao/dpp/blob/master/img/wechat.png)
