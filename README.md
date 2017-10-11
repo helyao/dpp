@@ -79,6 +79,5 @@ https://www.sslproxies.org/
 1. [Redis客户端](https://redisdesktop.com/)
 
 #### 如果对你有帮助，可否打赏一杯咖啡提神
-![AliPay](https://github.com/helyao/dpp/blob/master/img/alipay.png)
-
-![WeChat](https://github.com/helyao/dpp/blob/master/img/wechat.png)
+<img width="200" height="200" src="https://github.com/helyao/dpp/blob/master/img/alipay.png"/>
+<img width="200" height="200" src="https://github.com/helyao/dpp/blob/master/img/wechat.png"/>
